@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">LeoDictionary</string>
     <string name="action_settings">Settings</string>
+    <string name="item_translation_text">Translation</string>
+    <string name="item_word_text">LeoWord</string>
+    <string name="item_image_description">leo word image</string>
+    <string name="item_sound_icon">leo word sound icon</string>
 </resources>
