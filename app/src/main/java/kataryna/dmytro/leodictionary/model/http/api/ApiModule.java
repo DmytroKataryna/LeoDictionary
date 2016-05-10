@@ -1,4 +1,4 @@
-package kataryna.dmytro.leodictionary.model.api;
+package kataryna.dmytro.leodictionary.model.http.api;
 
 
 import com.squareup.okhttp.OkHttpClient;

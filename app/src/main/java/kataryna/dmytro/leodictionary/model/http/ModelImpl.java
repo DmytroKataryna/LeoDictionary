@@ -1,10 +1,10 @@
-package kataryna.dmytro.leodictionary.model;
+package kataryna.dmytro.leodictionary.model.http;
 
 import android.content.Context;
 
 import java.util.List;
 
-import kataryna.dmytro.leodictionary.model.api.API;
+import kataryna.dmytro.leodictionary.model.http.api.API;
 import kataryna.dmytro.leodictionary.model.data.Dictionary;
 import kataryna.dmytro.leodictionary.model.data.LastUpdateTime;
 import kataryna.dmytro.leodictionary.model.data.LeoWord;

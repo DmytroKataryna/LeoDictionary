@@ -1,4 +1,4 @@
-package kataryna.dmytro.leodictionary.model.api;
+package kataryna.dmytro.leodictionary.model.http.api;
 
 import kataryna.dmytro.leodictionary.model.data.Dictionary;
 import kataryna.dmytro.leodictionary.model.data.LastUpdateTime;
